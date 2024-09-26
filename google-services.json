@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049668760097",
+    "project_id": "rock-paper-scissors-babca",
+    "storage_bucket": "rock-paper-scissors-babca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049668760097:android:255088a28271c1bdce2960",
+        "android_client_info": {
+          "package_name": "com.vanhien.rockpaperscissors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgDw3a6M6mc3s6azRz-4h7uSJJDYNqOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
